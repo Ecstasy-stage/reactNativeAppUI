@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>456277723625-qsa9vdadv30vosnt3o1p8pdoj81sj38o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.456277723625-qsa9vdadv30vosnt3o1p8pdoj81sj38o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>456277723625-07kq42v4kvikc92sir0rcfjv31pi0e0k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-iKbOLYxEQg6zpRjEs8v3zLZkxw2JuAc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>456277723625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ecstasy.reactNativeApp</string>
+	<key>PROJECT_ID</key>
+	<string>theatronfinal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>theatronfinal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:456277723625:ios:11e774c4d85f0146abe378</string>
+	<key>DATABASE_URL</key>
+	<string>https://theatronfinal.firebaseio.com</string>
+</dict>
+</plist>
